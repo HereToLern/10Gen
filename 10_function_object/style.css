@@ -1,0 +1,13 @@
+.game-card {
+    height: 100vh; 
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, monospace;
+  }
+
+  .card-header {
+      background-color: #4598AA;
+      color: 64, 181, 228;
+  }
+  
+  .card-body, .card-footer {
+      background-color: #2E6671; 
+  }
